@@ -1,1 +1,1 @@
-# recurring-investment
+# Recurring Investment
